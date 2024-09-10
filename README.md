@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+        <img src="https://profile-counter.glitch.me/{ayushpratapsingh1}/count.svg" alt="ayushpratapsingh1 :: Visitor's Count" />
+        <a href="https://www.linkedin.com/in/ayushpratapsingh1/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 110px; height: auto;">
+        </a>
+</div>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishgarg2508&theme=tokyonight" alt="mystreak" style="width:400px; height: auto; border-radius: 20px;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harishgarg2508&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width:290px; height: auto; border-radius: 20px;"/>
 <!--
