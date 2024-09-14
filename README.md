@@ -1,3 +1,6 @@
+---
+[![](https://visitcount.itsvg.in/api?id=harishgarg2508&icon=8&color=8)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 Hi! I'm a B.Tech CSE student passionate about web development. I enjoy building scalable, user-friendly applications and have experience with both front-end and back-end technologies. Always eager to learn and collaborate on exciting projects!
 
@@ -22,7 +25,5 @@ Hi! I'm a B.Tech CSE student passionate about web development. I enjoy building 
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harishgarg2508&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)-->
 
----
-[![](https://visitcount.itsvg.in/api?id=harishgarg2508&icon=8&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
