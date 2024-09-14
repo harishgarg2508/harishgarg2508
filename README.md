@@ -1,6 +1,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=harishgarg2508&icon=8&color=8)](https://visitcount.itsvg.in)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=harishgarg2508&label=Profile%20Views&pretty=false" />
+</a>
 # 💫 About Me:
 Hi! I'm a B.Tech CSE student passionate about web development. I enjoy building scalable, user-friendly applications and have experience with both front-end and back-end technologies. Always eager to learn and collaborate on exciting projects!
 
