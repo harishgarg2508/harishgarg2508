@@ -15,8 +15,8 @@ Hi! I'm a B.Tech CSE student passionate about web development. I enjoy building 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harishgarg2508&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=harishgarg2508&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harishgarg2508&icon=8&color=8)](https://visitcount.itsvg.in)
