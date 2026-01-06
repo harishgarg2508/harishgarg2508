@@ -1,51 +1,86 @@
 <div align="center">
- 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 15px; border: 2px solid #64ffda;" />
 
-  <h1 align="center">⚡ System Breach: <span style="color:#64ffda;">Harish Garg</span> Detected</h1>
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="300" style="object-fit: cover; border-radius: 20px; box-shadow: 0px 0px 40px #7b2cbf;" />
+
+  <br/><br/>
+
+  <h1 align="center" style="font-family: sans-serif;">
+    🚀 <span style="color:#e0aaff;">MISSION STATUS:</span> ONLINE
+  </h1>
+  
+  <h2 align="center">
+    <span style="color:#ffffff;">COMMANDER: </span><span style="color:#c77dff;">HARISH GARG</span>
+  </h2>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39F8FA&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Full+Stack+Web+Developer;Architecting+Digital+Reality;Scalable+System+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=22&pause=1000&color=E0AAFF&center=true&vCenter=true&width=600&lines=Architecting+the+Digital+Cosmos;Exploring+Full+Stack+Nebulas;Building+Scalable+Universes;Next.js+%7C+React+%7C+AWS" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/harishgarg2508"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://instagram.com/harishgarg2508"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    <a href="https://stackoverflow.com/users/20578796"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-    <a href="https://medium.com/@rishusharma123321"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  </p>
+  <div style="background: rgba(20, 20, 40, 0.7); padding: 15px; border-radius: 15px; border: 1px solid #7b2cbf; display: inline-block;">
+    <a href="https://linkedin.com/in/harishgarg2508"><img src="https://img.shields.io/badge/LinkedIn-Connect-7b2cbf?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://instagram.com/harishgarg2508"><img src="https://img.shields.io/badge/Instagram-Follow-ff006e?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+    <a href="https://stackoverflow.com/users/20578796"><img src="https://img.shields.io/badge/StackOver-Flow-orange?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  </div>
 </div>
 
----
+<br/>
 
-### 👨‍💻 `user_profile.json`
-{
-  "user": "Harish Garg",
-  "status": "Building the Future",
-  "passion": "Web Development & Scalable Architecture",
-  "code": ["JavaScript", "Python", "Go", "PHP"],
-  "tools": ["React", "Next.js", "Node.js", "AWS"],
-  "challenge": "Always eager to learn and collaborate on exciting projects!"
-}
-<h2 align="center">🛠️ The Arsenal (Tech Stack)</h2>
+<div align="center">
+  <h3>🛸 TRANSMISSION LOG: <code>StarDate 2026.01</code></h3>
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center">
+        <b>🔭 Observation:</b><br/>CSE Undergrad exploring the vast web dev universe.
+      </td>
+      <td align="center">
+        <b>🛠️ Propulsion:</b><br/>Powered by Caffeine, Next.js, and clean code.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>⚡ Objective:</b><br/>Building scalable, user-friendly applications.
+      </td>
+      <td align="center">
+        <b>📡 Status:</b><br/>Ready for collaboration and launch.
+      </td>
+    </tr>
+  </table>
+</div>
 
-<div align="center"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python,go,java,js,ts,html,css,php,mysql,mongodb,postgres,firebase,aws,vercel,git,github,vscode,react,nextjs,express,nodejs,bootstrap,tailwind,figma,postman%26perline%3D14" /> </a> </div>
+<br/>
 
-<h2 align="center">📊 The Metrics</h2>
+<h2 align="center">🌌 The Tech Constellation</h2>
+<div align="center">
+  <div style="background: #0d0221; padding: 20px; border-radius: 20px; box-shadow: 0 0 20px #7b2cbf;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,python,go,java,aws,vercel,docker,firebase,mysql,mongodb,git,github,vscode,figma,postman,tailwind,bootstrap&perline=10&theme=dark" />
+    </a>
+  </div>
+</div>
 
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dharishgarg2508%26theme%3Dtokyonight%26hide_border%3Dfalse%26background%3D0D1117" alt="Streak" />
+<br/>
 
+<h2 align="center">📊 Galactic Metrics</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishgarg2508&theme=radical&hide_border=true&background=0d0221&fire=eb4034&ring=c77dff" alt="Streak" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=harishgarg2508&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=c77dff&icon_color=e0aaff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishgarg2508&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=c77dff" height="180"/>
+</div>
 
+<br/>
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dharishgarg2508%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D79ffca%26icon_color%3D79ffca" height="180"/> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dharishgarg2508%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D79ffca" height="180"/> </div>
+<h2 align="center">🐍 Orbit Path (Contribution Grid)</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/harishgarg2508/harishgarg2508/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
-<h2 align="center">🐍 Contribution Grid</h2>
+<br/>
 
-<div align="center"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/harishgarg2508/harishgarg2508/output/github-contribution-grid-snake.svg" alt="Snake animation will appear here after the Action runs" /> </div>
-
-<div align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D100%26section%3Dfooter"/>
-
-
-<h3>👀 Profile Views</h3> <img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3Dharishgarg2508%26icon%3D5%26color%3D6" /> </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=100&section=footer"/>
+</div>
