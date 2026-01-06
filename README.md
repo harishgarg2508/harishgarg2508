@@ -1,33 +1,50 @@
+<div align="center">
+ 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 15px; border: 2px solid #64ffda;" />
+
+  <h1 align="center">⚡ System Breach: <span style="color:#64ffda;">Harish Garg</span> Detected</h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39F8FA&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Full+Stack+Web+Developer;Architecting+Digital+Reality;Scalable+System+Builder" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/harishgarg2508"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://instagram.com/harishgarg2508"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+    <a href="https://stackoverflow.com/users/20578796"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+    <a href="https://medium.com/@rishusharma123321"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  </p>
+</div>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=harishgarg2508&icon=8&color=8)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
-Hi! I'm a B.Tech CSE student passionate about web development. I enjoy building scalable, user-friendly applications and have experience with both front-end and back-end technologies. Always eager to learn and collaborate on exciting projects!
+### 👨‍💻 `user_profile.json`
 
+{
+  "user": "Harish Garg",
+  "status": "Building the Future",
+  "passion": "Web Development & Scalable Architecture",
+  "code": ["JavaScript", "Python", "Go", "PHP"],
+  "tools": ["React", "Next.js", "Node.js", "AWS"],
+  "challenge": "Always eager to learn and collaborate on exciting projects!"
+}
+<h2 align="center">🛠️ The Arsenal (Tech Stack)</h2>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EtkZ5dBe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harishgarg2508) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harishgarg2508) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rishusharma123321) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rishusharma123321) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Harish-Garg-161) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Deep_Peanut_8396) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20578796) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rishu50990536) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Harish-Garg-the-encoder) 
+<div align="center"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python,go,java,js,ts,html,css,php,mysql,mongodb,postgres,firebase,aws,vercel,docker,git,github,vscode,vim,react,nextjs,vue,express,nodejs,bootstrap,tailwind,materialui,redux,sass,wordpress,figma,postman%26perline%3D12" /> </a> </div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<h2 align="center">📊 The Metrics</h2>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harishgarg2508&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harishgarg2508&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harishgarg2508&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harishgarg2508&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harishgarg2508&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dharishgarg2508%26theme%3Dtokyonight%26hide_border%3Dfalse%26background%3D0D1117" alt="Streak" />
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)
 
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harishgarg2508&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)-->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dharishgarg2508%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D79ffca%26icon_color%3D79ffca" height="180"/> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dharishgarg2508%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D79ffca" height="180"/> </div>
+
+<h2 align="center">🐍 Contribution Grid</h2> <div align="center"> <img src="https://www.google.com/search?q=https://github.com/harishgarg2508/harishgarg2508/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" /> </div>
+
+<div align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D100%26section%3Dfooter"/>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3>👀 Profile Views</h3> <img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3Dharishgarg2508%26icon%3D5%26color%3D6" /> </div>
