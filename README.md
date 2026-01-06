@@ -21,7 +21,6 @@
 ---
 
 ### 👨‍💻 `user_profile.json`
-
 {
   "user": "Harish Garg",
   "status": "Building the Future",
@@ -32,7 +31,7 @@
 }
 <h2 align="center">🛠️ The Arsenal (Tech Stack)</h2>
 
-<div align="center"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python,go,java,js,ts,html,css,php,mysql,mongodb,postgres,firebase,aws,vercel,docker,git,github,vscode,vim,react,nextjs,vue,express,nodejs,bootstrap,tailwind,materialui,redux,sass,wordpress,figma,postman%26perline%3D12" /> </a> </div>
+<div align="center"> <a href="https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python,go,java,js,ts,html,css,php,mysql,mongodb,postgres,firebase,aws,vercel,git,github,vscode,react,nextjs,express,nodejs,bootstrap,tailwind,figma,postman%26perline%3D14" /> </a> </div>
 
 <h2 align="center">📊 The Metrics</h2>
 
@@ -42,7 +41,9 @@
 
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dharishgarg2508%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D79ffca%26icon_color%3D79ffca" height="180"/> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dharishgarg2508%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D79ffca" height="180"/> </div>
 
-<h2 align="center">🐍 Contribution Grid</h2> <div align="center"> <img src="https://www.google.com/search?q=https://github.com/harishgarg2508/harishgarg2508/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" /> </div>
+<h2 align="center">🐍 Contribution Grid</h2>
+
+<div align="center"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/harishgarg2508/harishgarg2508/output/github-contribution-grid-snake.svg" alt="Snake animation will appear here after the Action runs" /> </div>
 
 <div align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D100%26section%3Dfooter"/>
 
