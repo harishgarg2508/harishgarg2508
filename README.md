@@ -1,56 +1,60 @@
 <div align="center">
-<!-- THE NEON HEADER: Dynamic twinkling animation with custom gradient -->
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3Dgradient%26customColorList%3D10,7b2cbf,c77dff,e0aaff%26height%3D320%26section%3Dheader%26text%3DHARISH%2520GARG%26fontSize%3D85%26animation%3Dtwinkling%26fontAlignY%3D40%26desc%3DNEURAL%2520ENGINEER%2520//%2520FULL%2520STACK%2520ARCHITECT%26descAlignY%3D60%26descSize%3D22" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,7b2cbf,5a189a,3c096c,240046&height=320&section=header&text=HARISH%20GARG&fontSize=90&animation=fadeIn&fontAlignY=35&desc=CYBERNETIC%20ARCHITECT%20|%20FULL-STACK%20ENGINEER%20|%20SYSTEM%20DESIGNER&descAlignY=55&descSize=20" width="100%" />
 
-<!-- DYNAMIC SYSTEM STATUS: High-speed typing effect -->
+  <br/>
 
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DOrbitron%26weight%3D700%26size%3D28%26pause%3D1000%26color%3DE0AAFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DCORE%2BSYSTEMS%2BONLINE%3BSYNCING%2BWITH%2BTHE%2BGRID...%3BBUILDING%2BTHE%2BFUTURE%2BOF%2BWEB%3BNEXT.js%2B%257C%2BREACT%2B%257C%2BAWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=500&color=9D4EDD&center=true&vCenter=true&width=500&lines=CORE+SYSTEMS+ONLINE;ESTABLISHING+NEURAL+LINK...;ORCHESTRATING+MICROSERVICES;PIONEERING+DIGITAL+FRONTIERS;" alt="System Status" />
 
-<!-- COMMANDER QUICK-LINKS: Stylized social portals -->
+  <br/>
 
-<p align="center">
-<a href="https://linkedin.com/in/harishgarg2508"><img src="https://img.shields.io/badge/LinkedIn-Connect-7b2cbf?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/20578796"><img src="https://img.shields.io/badge/StackOver-Flow-orange?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<a href="https://instagram.com/harishgarg2508"><img src="https://img.shields.io/badge/Instagram-Follow-ff006e?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
+  <p align="center">
+    <a href="https://linkedin.com/in/harishgarg2508"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=0077B5&style=for-the-badge&logo=linkedin" /></a>
+    <a href="https://stackoverflow.com/users/20578796"><img src="https://img.shields.io/static/v1?label=&message=STACKOVERFLOW&color=FE7A16&style=for-the-badge&logo=stack-overflow" /></a>
+    <a href="https://instagram.com/harishgarg2508"><img src="https://img.shields.io/static/v1?label=&message=INSTAGRAM&color=E4405F&style=for-the-badge&logo=instagram" /></a>
+  </p>
 </div>
 
 <hr/>
 
-🛠️ NEURAL UPLINK (Tech Stack)
-
+## 🛠 SYSTEM DIAGNOSTICS (Tech Core)
 <div align="center">
-<div style="background: rgba(13, 2, 33, 0.8); padding: 30px; border-radius: 30px; border: 2px solid #7b2cbf; box-shadow: 0 0 25px #7b2cbf;">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,ts,js,nodejs,aws,docker,go,python,mongodb,mysql,postgresql,tailwind,vercel,firebase,git,github,vscode,figma,postman%26perline%3D10%26theme%3Ddark" />
-</div>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,aws,docker,go,python,mongodb,postgresql,tailwind,vercel&theme=dark" />
 </div>
 
-🏆 THE TROPHY ROOM (Achievements)
+<br/>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dharishgarg2508%26theme%3Dradical%26no-bg%3Dtrue%26column%3D7%26margin-w%3D15%26margin-h%3D15" width="100%" />
+  <table border="0">
+    <tr>
+      <td>
+        <h3 align="left">📡 NEURAL ACTIVITY</h3>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishgarg2508&theme=dracula&bg_color=0d0221&hide_border=true&color=c77dff" width="400" />
+      </td>
+      <td>
+        <h3 align="left">💾 DATA STORAGE</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishgarg2508&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=7b2cbf" width="300" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-📡 SYSTEM DIAGNOSTICS (Stats)
+<br/>
 
+## 🌌 THE GALAXY STREAM (Global Metrics)
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harishgarg2508&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=c77dff&icon_color=e0aaff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harishgarg2508&theme=radical&hide_border=true&background=0d0221&fire=eb4034&ring=c77dff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harishgarg2508&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=7b2cbf&icon_color=c77dff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishgarg2508&theme=radical&hide_border=true&background=0d0221&sideNums=e0aaff&stroke=7b2cbf" width="48%" />
 </div>
 
-📈 ACTIVITY PULSE (Dynamic Flow Graph)
+<br/>
 
+## 🏆 SYSTEM ACHIEVEMENTS
 <div align="center">
-<!-- This replaces the static snake with a living, breathing activity visualization -->
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dharishgarg2508%26theme%3Ddracula%26bg_color%3D0d0221%26hide_border%3Dtrue%26color%3D7b2cbf%26area%3Dtrue" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harishgarg2508&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=7b2cbf" width="400" />
 </div>
 
-🛸 DATA STREAM (Top Languages)
+<br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishgarg2508&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=c77dff" width="80%" />
-</div>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D7b2cbf%26height%3D120%26section%3Dfooter%26animation%3DfadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7b2cbf&height=20&section=footer&animation=fadeIn" />
 </div>
