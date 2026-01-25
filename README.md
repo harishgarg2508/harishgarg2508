@@ -48,13 +48,13 @@
 
 <br/>
 
-## 🏆 SYSTEM ACHIEVEMENTS
+## 🏆 SYSTEM ACHIEVEMENTS (The Trophy Hall)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harishgarg2508&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=7b2cbf" width="400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harishgarg2508&theme=radical&no-bg=true&margin-w=15&column=4" alt="github trophies" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7b2cbf&height=20&section=footer&animation=fadeIn" />
-</div>
+</div>>
