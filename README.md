@@ -1,67 +1,64 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dsoft%26color%3D7b2cbf%26height%3D200%26section%3Dheader%26text%3DHARISH%2520GARG%26fontSize%3D70%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DArchitecting%2520the%2520Digital%2520Cosmos%26descAlignY%3D60%26descSize%3D20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,7b2cbf,c77dff,e0aaff&height=300&section=header&text=HARISH%20GARG&fontSize=80&animation=twinkling&fontAlignY=40&desc=CYBERNETIC%20ARCHITECT%20//%20FULL%20STACK&descAlignY=60&descSize=20" width="100%" />
 
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DOrbitron%26weight%3D600%26size%3D28%26pause%3D1000%26color%3DE0AAFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DFull%2BStack%2BEngineer%3BNext.js%2B%252B%2BTypeScript%2BExpert%3BAWS%2BCloud%2BArchitect%3BBuilding%2BScalable%2BUniverses" alt="Typing SVG" />
+  <br/>
 
-<p align="center">
-<a href="https://linkedin.com/in/harishgarg2508"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-<a href="https://instagram.com/harishgarg2508"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" /></a>
-<a href="https://stackoverflow.com/users/20578796"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Stack_Overflow-FE7A16%3Fstyle%3Dfor-the-badge%26logo%3Dstack-overflow%26logoColor%3Dwhite" /></a>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=500&color=7B2CBF&center=true&vCenter=true&width=500&lines=INITIALIZING+SYSTEMS...;DECRYPTING+COGNITIVE+CORE...;ARCHITECTING+DIGITAL+REALMS;UPDATING+NEURAL+MODELS;" alt="System Status" />
+
+  <br/>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/harishgarg2508"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=0077B5&style=for-the-badge&logo=linkedin" /></a>
+    <a href="https://stackoverflow.com/users/20578796"><img src="https://img.shields.io/static/v1?label=&message=STACKOVERFLOW&color=FE7A16&style=for-the-badge&logo=stack-overflow" /></a>
+    <a href="https://instagram.com/harishgarg2508"><img src="https://img.shields.io/static/v1?label=&message=INSTAGRAM&color=E4405F&style=for-the-badge&logo=instagram" /></a>
+  </p>
 </div>
 
 <hr/>
 
-🛰️ MISSION CONTROL
-
+## 🛠 SYSTEM DIAGNOSTICS (Tech Core)
 <div align="center">
-<table border="0">
-<tr>
-<td width="50%">
-<p><strong>🔭 Currently:</strong> Engineering robust Full Stack solutions with Next.js & Node.js.</p>
-<p><strong>⚡ Tech Stack:</strong> Specialized in high-performance, scalable React ecosystems.</p>
-<p><strong>🚀 Objective:</strong> Transforming complex problems into elegant, deployable code.</p>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishgarg2508&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=c77dff" width="100%" />
-</td>
-</tr>
-</table>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,aws,docker,go,python,mongodb,postgresql,tailwind,vercel&theme=dark" />
 </div>
 
-🏆 GALACTIC ACHIEVEMENTS
+<br/>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dharishgarg2508%26theme%3Dradical%26no-bg%3Dtrue%26column%3D7%26margin-w%3D15%26margin-h%3D15" width="100%" />
+  <table border="0">
+    <tr>
+      <td>
+        <h3 align="left">📡 NEURAL ACTIVITY</h3>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishgarg2508&theme=dracula&bg_color=0d0221&hide_border=true&color=c77dff" width="400" />
+      </td>
+      <td>
+        <h3 align="left">💾 DATA STORAGE</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishgarg2508&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=7b2cbf" width="300" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-🌌 THE TECH CONSTELLATION
+<br/>
+
+## 🌌 THE GALAXY STREAM (Global Metrics)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harishgarg2508&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=7b2cbf&icon_color=c77dff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishgarg2508&theme=radical&hide_border=true&background=0d0221&sideNums=e0aaff&stroke=7b2cbf" width="48%" />
+</div>
+
+<br/>
+
+## 🐍 SECTOR PATROL (Contribution Snake)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harishgarg2508/harishgarg2508/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harishgarg2508/harishgarg2508/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/harishgarg2508/harishgarg2508/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
 
 <div align="center">
-<div style="background: #0d0221; padding: 25px; border-radius: 20px; border: 1px solid #7b2cbf;">
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,python,go,java,aws,vercel,docker,firebase,mysql,mongodb,git,github,vscode,figma,postman,tailwind,bootstrap&perline=10&theme=dark" />
-</div>
-</div>
-
-📊 METRIC ANALYSIS
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harishgarg2508&theme=radical&hide_border=true&background=0d0221&fire=eb4034&ring=c77dff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=harishgarg2508&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=c77dff&icon_color=e0aaff" width="48%" />
-</div>
-
-📈 ACTIVITY ORBIT
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dharishgarg2508%26theme%3Ddracula%26bg_color%3D0d0221%26hide_border%3Dtrue%26color%3D7b2cbf" width="100%" />
-</div>
-
-🐍 CONTRIBUTION VOYAGE
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/harishgarg2508/harishgarg2508/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=100&section=footer&animation=fadeIn" />
 </div>
