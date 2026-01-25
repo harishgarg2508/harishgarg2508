@@ -48,13 +48,9 @@
 
 <br/>
 
-## 🏆 SYSTEM ACHIEVEMENTS (The Trophy Hall)
+## 🏆 SYSTEM ACHIEVEMENTS
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harishgarg2508&theme=radical&no-bg=true&margin-w=15&column=4" alt="github trophies" />
+  <img src="https://img.shields.io/badge/Rank-S_Tier_Architect-7b2cbf?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Contributions-High_Activity-5a189a?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Uptime-100%25-green?style=for-the-badge" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7b2cbf&height=20&section=footer&animation=fadeIn" />
-</div>>
